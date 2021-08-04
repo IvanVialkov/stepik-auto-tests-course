@@ -1,2 +1,3 @@
 # stepik-auto-tests-course
-Homework for the course 
+Homework for the course
+Edit
